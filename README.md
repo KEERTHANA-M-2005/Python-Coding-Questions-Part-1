@@ -30,7 +30,7 @@ Run any solution file with Python:
 ```bash
 python Q1.py
 
-
+---
 #📌 Skills Demonstrated
 Pattern generation using loops
 
@@ -42,6 +42,7 @@ String manipulation
 
 Clean and readable Python coding
 
+---
 #🎯 Purpose
 As a Computer Science Engineering student preparing for an IT/software role, I use these problems to:
 
@@ -51,6 +52,7 @@ Practice problem-solving under constraints
 
 Showcase coding skills publicly on GitHub
 
+---
 #🏆 Example Question Types
 Patterns: Numeric shapes, star patterns, spiral matrices
 
@@ -60,6 +62,7 @@ Digit Analysis: Frequency, sequences, palindromes
 
 Miscellaneous: Receipt generation, geometric area calculation
 
+---
 ## 📥 Download Questions & Solutions (PDF)
 This repository also contains a single PDF file with **all questions and their respective Python solutions** for easy reference.
 
