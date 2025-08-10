@@ -30,7 +30,8 @@ Run any solution file with Python:
 ```bash
 python Q1.py
 
-📌 Skills Demonstrated
+
+#📌 Skills Demonstrated
 Pattern generation using loops
 
 Arithmetic without built-in operators
@@ -41,7 +42,7 @@ String manipulation
 
 Clean and readable Python coding
 
-🎯 Purpose
+#🎯 Purpose
 As a Computer Science Engineering student preparing for an IT/software role, I use these problems to:
 
 Build strong programming fundamentals
@@ -50,7 +51,7 @@ Practice problem-solving under constraints
 
 Showcase coding skills publicly on GitHub
 
-🏆 Example Question Types
+#🏆 Example Question Types
 Patterns: Numeric shapes, star patterns, spiral matrices
 
 Logic Problems: Arithmetic without +, -, *, /
