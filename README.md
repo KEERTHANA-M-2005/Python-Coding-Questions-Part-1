@@ -1,4 +1,4 @@
-# 🐍 Python Coding Challenges – Solutions
+# 🐍 Python Coding Challenge – Solutions
 
 This repository contains my solutions to a series of **Python coding challenges** designed to strengthen logical thinking and problem-solving skills using only **loops, conditionals, and basic I/O, some user defined functions** — without advanced data structures or unnecessary built-in functions.
 
